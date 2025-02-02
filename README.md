@@ -2,7 +2,8 @@
 
 📌 **Project Overview**
 
-Chandoo Prediction is a data-driven project aimed at analyzing and forecasting sales trends in a chocolate manufacturing company. Using historical sales data across different locations, products, and people involved. The project builds predictive models to help optimize sales strategies and decision-making.
+Chandoo Prediction is a data-driven project aimed at analyzing and forecasting sales trends in a chocolate manufacturing company. Using historical sales data across different locations, products, and people involved, the project builds predictive models to optimize sales strategies and decision-making. Additionally, an interactive Power BI dashboard was developed to visualize key sales insights, trends, and forecasts, enabling stakeholders to explore data dynamically through filters, slicers, and drill-down options for better decision-making.
+
 
 📊**Dataset Overview**
 
